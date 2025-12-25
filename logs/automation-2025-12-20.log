@@ -1,0 +1,65 @@
+20:41:34.9305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\grouping.xml
+
+20:41:43.4439 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
+20:41:44.8958 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
+20:41:44.9122 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
+20:41:55.3946 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
+20:41:55.4188 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
+20:42:06.0750 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
+20:42:06.1021 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
+20:42:06.6099 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
+21:48:11.1608 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+21:48:20.3836 [main] INFO  testCases.TC001_Login - *********Login testcase execution started************
+21:48:21.4243 [main] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+21:48:40.3292 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+21:48:45.5263 [main] INFO  testCases.TC001_Login - *********Login testcase execution started************
+21:48:46.3443 [main] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+21:51:36.1013 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+21:51:43.3695 [main] INFO  testCases.TC001_Login - *********Login testcase execution started************
+21:51:44.3097 [main] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+21:53:15.7335 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+21:53:23.5175 [main] INFO  testCases.TC001_Login - *********Login testcase execution started************
+21:53:24.4129 [main] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+21:54:03.7510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+21:54:10.8051 [main] INFO  testCases.TC001_Login - *********Login testcase execution started************
+21:54:11.5471 [main] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+21:56:04.5906 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\crossbrowsertesting.xml
+
+21:56:20.8826 [TestNG-tests-1] INFO  testCases.TC001_Login - *********Login testcase execution started************
+21:56:27.3453 [TestNG-tests-3] INFO  testCases.TC001_Login - *********Login testcase execution started************
+21:56:30.5304 [TestNG-tests-3] ERROR testCases.TC001_Login - Test Failed...
+21:56:36.5571 [TestNG-tests-2] INFO  testCases.TC001_Login - *********Login testcase execution started************
+21:56:38.1417 [TestNG-tests-2] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+21:57:46.1866 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\crossbrowsertesting.xml
+
+21:57:59.2539 [TestNG-tests-3] INFO  testCases.TC001_Login - *********Login testcase execution started************
+21:57:59.2539 [TestNG-tests-1] INFO  testCases.TC001_Login - *********Login testcase execution started************
+21:58:14.5021 [TestNG-tests-2] INFO  testCases.TC001_Login - *********Login testcase execution started************
+21:58:19.1616 [TestNG-tests-2] ERROR testCases.TC001_Login - Test Failed...
+21:59:59.1390 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\crossbrowsertesting.xml
+
+22:00:23.8590 [TestNG-tests-1] INFO  testCases.TC001_Login - *********Login testcase execution started************
+22:00:23.8570 [TestNG-tests-3] INFO  testCases.TC001_Login - *********Login testcase execution started************
+22:00:30.8212 [TestNG-tests-2] INFO  testCases.TC001_Login - *********Login testcase execution started************
+22:00:33.1927 [TestNG-tests-2] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+22:02:33.4831 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\crossbrowsertesting.xml
+
+22:02:47.8376 [TestNG-tests-3] INFO  testCases.TC001_Login - *********Login testcase execution started************
+22:02:50.8642 [TestNG-tests-1] INFO  testCases.TC001_Login - *********Login testcase execution started************
+22:02:50.9126 [TestNG-tests-3] ERROR testCases.TC001_Login - Test Failed...
+22:02:52.5117 [TestNG-tests-1] ERROR testCases.TC001_Login - Test Failed...
