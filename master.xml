@@ -14,8 +14,13 @@
   	
     <classes>
      <!-- <class name="testCases.TC001_Login"/> -->
-     <class name="testCases.TC003_ProductAddtocart"/>
-      <class name = "testCases.TC004_ProductRemove"/>
+     <!--<class name="testCases.TC003_ProductAddtocart"/>
+      <class name = "testCases.TC004_ProductRemove"/> 
+      <class name="testCases.TC005_ProductSortHigtoLowPrice"></class>
+      <class name="testCases.TC006_ProductSortByLowtoHigh"></class>
+      <class name="testCases.TC007_ProductSortByAtoZ"></class>-->
+      <class name="testCases.TC008_ProductSortByZtoA"></class>
+
     </classes>
     
   </test> <!-- Test -->

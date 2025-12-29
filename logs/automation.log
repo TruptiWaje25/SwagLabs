@@ -1,26 +1,57 @@
-14:39:02.4868 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
-14:39:02.6833 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
-14:39:13.7049 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
-14:39:13.8190 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
-14:39:24.9525 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
-14:39:24.9609 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
-14:39:25.9758 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
-14:51:09.7257 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  F:\Selenium Projects\SwagLabs\DDT.xml
+15:42:46.8969 [main] INFO  testCases.TC005_ProductSort - ******Product sorted by price high to low******
+15:44:24.4097 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
 
-14:51:22.0662 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
-14:51:23.4421 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
-14:51:23.4662 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
-14:51:34.2736 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
-14:51:34.2976 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
-14:51:44.8858 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
-14:51:44.8998 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
-14:51:45.5005 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
-14:51:45.5080 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
-14:51:55.9268 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
-14:51:55.9288 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
-14:52:06.3929 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
-14:52:06.4048 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
-14:52:16.8454 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
-14:52:16.8651 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
-14:52:27.3089 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
+15:44:38.7369 [main] INFO  testCases.TC005_ProductSort - *****Test case execution started****
+15:44:40.9398 [main] INFO  testCases.TC005_ProductSort - ******Product sorted by price high to low******
+15:45:15.6282 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+15:45:26.7903 [main] INFO  testCases.TC005_ProductSort - *****Test case execution started****
+15:45:28.7974 [main] INFO  testCases.TC005_ProductSort - ******Product sorted by price high to low******
+17:05:55.6803 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+17:06:07.8223 [main] INFO  testCases.TC005_ProductSort - *****Test case execution started****
+17:06:09.8552 [main] INFO  testCases.TC005_ProductSort - ******Product sorted by price high to low******
+17:09:06.9963 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+17:09:18.3331 [main] INFO  testCases.TC005_ProductSort - *****Test case execution started****
+17:09:20.0518 [main] INFO  testCases.TC005_ProductSort - ******Product sorted by price high to low******
+17:10:32.9337 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+17:10:42.5675 [main] INFO  testCases.TC005_ProductSort - *****Test case execution started****
+17:10:44.9932 [main] INFO  testCases.TC005_ProductSort - ******Product sorted by price high to low******
+17:10:45.1206 [main] INFO  testCases.TC005_ProductSort - ***********Test case execution completed**********
+17:16:13.0751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+17:16:21.2661 [main] INFO  testCases.TC005_ProductSort - *****Test case execution started****
+17:16:23.1599 [main] INFO  testCases.TC005_ProductSort - ******Product sorted by price high to low******
+17:16:23.3703 [main] INFO  testCases.TC005_ProductSort - ***********Test case execution completed**********
+17:43:36.7895 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+17:43:44.3572 [main] INFO  testCases.TC006_ProductSortByLowtoHigh - *****Test case execution started****
+17:43:46.9158 [main] INFO  testCases.TC006_ProductSortByLowtoHigh - ******Product sorted by price high to low******
+17:43:47.0599 [main] INFO  testCases.TC006_ProductSortByLowtoHigh - ***********Test case execution completed**********
+17:57:24.3957 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+17:57:34.8817 [main] INFO  testCases.TC007_ProductSortByAtoZ - *****Test case execution started****
+17:57:37.4033 [main] INFO  testCases.TC007_ProductSortByAtoZ - ******Product sorted by price high to low******
+17:57:47.4965 [main] INFO  testCases.TC007_ProductSortByAtoZ - ***********Test case execution completed**********
+18:01:19.5145 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+18:01:31.5004 [main] INFO  testCases.TC008_ProductSortByZtoA - *****Test case execution started****
+18:01:33.9569 [main] INFO  testCases.TC008_ProductSortByZtoA - ******Product sorted by price high to low******
+18:01:44.0338 [main] INFO  testCases.TC008_ProductSortByZtoA - ***********Test case execution completed**********
+18:02:46.8939 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+18:02:55.1890 [main] INFO  testCases.TC008_ProductSortByZtoA - *****Test case execution started****
+18:02:59.6713 [main] INFO  testCases.TC008_ProductSortByZtoA - ******Product sorted by price high to low******
+18:03:09.7860 [main] INFO  testCases.TC008_ProductSortByZtoA - ***********Test case execution completed**********
