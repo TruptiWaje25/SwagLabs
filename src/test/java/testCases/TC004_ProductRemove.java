@@ -9,7 +9,7 @@ import testBase.BaseClass;
 
 public class TC004_ProductRemove extends BaseClass
 {
-	@Test
+	@Test(groups="master")
 	public void RemoveProduct()
 	{
 	logger.info("*****Test case execution started****");

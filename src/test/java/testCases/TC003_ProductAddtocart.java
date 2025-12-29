@@ -9,7 +9,7 @@ import testBase.BaseClass;
 
 public class TC003_ProductAddtocart extends BaseClass
 {
-	@Test
+	@Test(groups= {"Sanity","master"})
 	public void AddToCart()
 	{
 		logger.info("**************Test case execution started**********************");
