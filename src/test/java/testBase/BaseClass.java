@@ -23,8 +23,8 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 
@@ -45,7 +45,7 @@ public class BaseClass {
 	    
 
 	
-	@BeforeMethod(groups= {"Sanity","Functional"}, alwaysRun=true)
+	@BeforeClass(groups= {"Sanity","Functional"}, alwaysRun=true)
 	@Parameters({"os","browser"})
 	public void setup(String os, String br) throws IOException, MalformedURLException
 	{
@@ -122,8 +122,9 @@ public class BaseClass {
 		getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		
 	}
+
 	
-	@AfterMethod(groups= {"Sanity","Functional"}, alwaysRun=true)
+	@AfterClass(groups= {"Sanity","Functional"}, alwaysRun=true)
 	public void tearDown()
 	{
 		if (getDriver() != null) {

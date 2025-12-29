@@ -14,6 +14,8 @@ public class ProductPage extends BasePage {
 	@FindBy(xpath="//button[@id='react-burger-menu-btn']") WebElement clkMenu;
 	@FindBy(xpath="//a[@id='logout_sidebar_link']") WebElement clklogout;
 	@FindBy(xpath="//div[@class='app_logo']") WebElement logo;
+	@FindBy(xpath="//button[contains(text(),'Add to cart')]")WebElement clkaddcart;
+	@FindBy(xpath="//button[contains(text(),'Remove')]") WebElement clkremove;
 	
 	public void clickMenu()
 	{
@@ -35,4 +37,25 @@ public class ProductPage extends BasePage {
 		   return false;
 	   }
    }
+   
+   public void clickAddToCart()
+   {
+	   clkaddcart.click();   }
+
+
+   public boolean isProductAddedtoCart()
+   {
+	return clkremove.isDisplayed();
+   }
+   
+   public void RemoveProduct()
+   {
+	   clkremove.click();
+   }
+   
+   public boolean isProductRemoved()
+   {
+	return clkaddcart.isDisplayed();
+   }
+
 }

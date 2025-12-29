@@ -1,0 +1,88 @@
+17:03:25.5232 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:03:25.5468 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.5599 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:25.5609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.5609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:25.5609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.5885 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 24 ms.
+17:03:25.5915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+17:03:25.5961 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:03:25.5971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.5971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:25.5981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.6279 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\AppData\Local\Temp\testng-eclipse-2031430619\testng-customsuite.xml
+
+17:03:25.7332 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+17:03:27.6161 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5d2a4eed: 1171 ms
+17:03:27.6767 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1cbf6e72: 59 ms
+17:03:27.7280 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@75390459: 52 ms
+17:03:27.7609 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4504d271: 31 ms
+17:03:27.7782 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2cae1042: 16 ms
+17:03:27.7782 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@163d04ff: 0 ms
+17:05:19.1937 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+11:51:46.8317 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+11:53:43.1549 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+11:57:24.1847 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+11:59:49.9292 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+12:01:42.0038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+12:03:08.6499 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+12:12:14.5933 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+12:13:37.2184 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+12:15:52.8572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+12:28:58.9112 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+12:37:10.9958 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+12:38:03.6352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+13:17:26.6783 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+13:20:39.7944 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+13:21:37.2819 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+13:24:08.4223 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+13:27:01.6668 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+13:47:49.6012 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+13:48:52.2216 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+13:52:07.5725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+13:54:29.3526 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+

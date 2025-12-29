@@ -13,7 +13,9 @@
   	<parameter name="os" value="windows"></parameter>
   	
     <classes>
-      <class name="testCases.TC001_Login"/>
+     <!-- <class name="testCases.TC001_Login"/> -->
+     <class name="testCases.TC003_ProductAddtocart"/>
+      <class name = "testCases.TC004_ProductRemove"/>
     </classes>
     
   </test> <!-- Test -->

@@ -6,15 +6,15 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="windows"/>
-    <parameter name="browser" value="edge"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC001_Login">
+      <class name="testCases.TC004_ProductRemove">
         <methods>
           <include name="tearDown"/>
-          <include name="Login"/>
+          <include name="RemoveProduct"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC001_Login -->
+      </class> <!-- testCases.TC004_ProductRemove -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [MasterSuite] -->

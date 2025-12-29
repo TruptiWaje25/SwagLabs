@@ -1,0 +1,51 @@
+18:06:52.7335 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\master.xml
+
+18:15:57.7148 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\crossbrowsertesting.xml
+
+18:16:54.0256 [TestNG-tests-1] INFO  testCases.TC001_Login - *********Login testcase execution started************
+18:17:09.7974 [TestNG-tests-1] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+18:17:47.7274 [TestNG-tests-2] INFO  testCases.TC001_Login - *********Login testcase execution started************
+18:17:51.5951 [TestNG-tests-2] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+18:43:00.4203 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium Projects\SwagLabs\DDT.xml
+
+18:44:04.8276 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
+18:44:08.6887 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
+18:45:19.6585 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
+18:45:35.6819 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
+18:45:57.0301 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
+18:46:09.3877 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
+18:46:15.5587 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution started************
+18:46:19.0426 [main] INFO  testCases.TC002_LoginDDT - *********Login testcase execution completed************
+23:22:31.0256 [main] INFO  testCases.TC001_Login - *********Login testcase execution started************
+23:22:34.8856 [main] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+23:33:48.9519 [main] INFO  testCases.TC001_Login - *********Login testcase execution started************
+23:33:51.4531 [main] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+12:24:24.6863 [main] INFO  testCases.TC001_Login - *********Login testcase execution started************
+12:24:27.2763 [main] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+12:32:57.2221 [main] INFO  testCases.TC001_Login - *********Login testcase execution started************
+12:32:58.4408 [main] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+11:47:57.4308 [main] INFO  testCases.TC001_Login - *********Login testcase execution started************
+11:47:58.7190 [main] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+13:05:20.0986 [main] INFO  testCases.TC001_Login - *********Login testcase execution started************
+13:05:23.8838 [main] INFO  testCases.TC001_Login - *********Login testcase execution completed************
+17:03:25.3119 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:03:25.4181 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+17:03:25.4236 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:25.4246 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.4266 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:25.4266 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.4286 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:25.4296 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.4321 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:25.4321 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.4560 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:25.4560 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.4580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:25.4590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.4610 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:25.4620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:25.4768 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:25.5182 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 41 ms.
